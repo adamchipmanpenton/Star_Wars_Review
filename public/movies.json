@@ -1,0 +1,44 @@
+[
+    {
+        "name" : "The Phantom Menace",
+        "date" : "May 16, 1999",
+        "actors" : ["Ewan McGregor", "Liam Neeson", "Natalie Portman", "Jake Lloyd"],
+        "poster" : "swep1.jpg",
+        "rating" : "3"
+    },
+    {
+        "name" : "Attack of the Clones",
+        "date" : "May 12, 2002",
+        "actors" : ["Ewan McGregor", "Hayden Christensen", "Natalie Portman", "Christopher Lee"],
+        "poster" : "swep2.jpg",
+        "rating" : "3"
+    },
+    {
+        "name" : "Revenge of the Sith",
+        "date" : "May 15, 2005",
+        "actors" : ["Ewan McGregor", "Hayden Christensen", "Natalie Portman", "Ian McDiarmid"],
+        "poster" : "swep3.jpg",
+        "rating" : "4"
+    },
+    {
+        "name" : "Star Wars",
+        "date" : "May 25, 1977",
+        "actors" : ["Mark Hamill", "Harrison Ford", "Carrie Fisher", "Alec Guinness", "James Earl Jones" ],
+        "poster" : "swep4.jpg",
+        "rating" : "5"
+    },
+    {
+        "name" : "The Empire Strikes Back",
+        "date" : "May 6, 1980",
+        "actors" : ["Mark Hamill", "Harrison Ford", "Carrie Fisher", "James Earl Jones", "Billy Dee Williams" ],
+        "poster" : "swep5.jpg",
+        "rating" : "5"
+    },
+    {
+        "name" : "Return of the Jedi",
+        "date" : "May 25, 1983",
+        "actors" : ["Mark Hamill", "Harrison Ford", "Carrie Fisher", "James Earl Jones", "Billy Dee Williams" ],
+        "poster" : "swep6.jpg",
+        "rating" : "4"
+    }
+]
